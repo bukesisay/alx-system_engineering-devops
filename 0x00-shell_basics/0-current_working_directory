@@ -1,1 +1,2 @@
-pwd command
+#!/bin/bash
+#To display files and folder form current directory
