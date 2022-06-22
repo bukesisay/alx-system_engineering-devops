@@ -1,3 +1,2 @@
-#!/bin/bash
-clear
-echo enter directory name 
+#!/bin/bash                                                                                                                      
+clear   
