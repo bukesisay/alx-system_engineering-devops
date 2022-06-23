@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $ls  –l $pwd|egrep ‘^d’
+echo "${find . -type f -name "*"}"
