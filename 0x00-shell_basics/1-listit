@@ -1,2 +1,2 @@
 #!/bin/bash 
-echo "File -> $f"
+find . -type d -exec echo '{}' \;
