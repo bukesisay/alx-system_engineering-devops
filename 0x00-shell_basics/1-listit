@@ -1,2 +1,2 @@
 #!/bin/bash 
-#To Display the contents list of your current directory 
+echo "${LS}"
